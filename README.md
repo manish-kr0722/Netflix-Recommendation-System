@@ -50,7 +50,7 @@ The complete dataset contains over **24 million ratings**, making it suitable fo
 - Seaborn
 - Scikit-learn
 - Scikit-Surprise
-- Jupyter Notebook
+- Google Colab
 
 ---
 
